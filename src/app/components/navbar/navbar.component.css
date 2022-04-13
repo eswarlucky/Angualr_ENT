@@ -1,0 +1,14 @@
+.citiBankNav {
+  background: linear-gradient(
+    to bottom,
+    #1bbcef 0%,
+    #23b0e6 20%,
+    #0b67b2 70%,
+    #164883 100%
+  );
+}
+
+.logo {
+  width: 75px;
+  height: 40px;
+}
